@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#input_id, #input_id1 ,#input_id2 {
+    height: 50px;
+    width: 150px;
+    margin: 10px;
+    padding: 20px;
+    font-size: xx-large;
+    border-radius: 10px;
+    color: white;
+}
+#input_id1 {
+    background-color: red;
+}
+#input_id2 {
+    background-color: yellow;
+}
